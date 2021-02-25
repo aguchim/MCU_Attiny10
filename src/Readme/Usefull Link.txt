@@ -1,0 +1,8 @@
+
+===========[Help for Upload]===========
+https://www.electronics-lab.com/project/programming-attiny10-platform-io-ide/
+http://www.bitbanging.space/posts/usbasp-firmware-update
+http://www.bitbanging.space/posts/attiny10-programming-platformio-terminal
+
+============[Help for Idea]============
+http://www.bitbanging.space/posts/videogame-for-attiny10
